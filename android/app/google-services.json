@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131194562808",
+    "project_id": "manga-for-us",
+    "storage_bucket": "manga-for-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131194562808:android:8890d172ef7a8220bb730d",
+        "android_client_info": {
+          "package_name": "com.example.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131194562808-fhlgm9d014l73ie03h4gmgmr9dda5lk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjbm3lBPyC57t3pWv1bbTgBJjzciPIMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131194562808-fhlgm9d014l73ie03h4gmgmr9dda5lk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
