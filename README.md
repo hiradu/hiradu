@@ -1,4 +1,4 @@
-# FireBase Upload Images App
+# FireBase Upload Images App.
 Name : Mohamed Abdullahi Ahmaed Class : CA195
 ID : C119934
 
