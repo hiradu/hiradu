@@ -8,7 +8,7 @@ ID : C119934
 
 ## Images
 
-| Preview Page | Select Image | Uploaded |
+| Preview Page | Select Image | Uploaded Screenshot|
 | ----- | ----- | ----- | ------ | ----- |
 |![][Preview ScreenShot]|![][Select Screenshot] | ![][Uploaded Screenshot] |
 
