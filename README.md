@@ -8,22 +8,15 @@ ID : C119934
 
 ## Images
 
-<div style="text-align: center">
- <table>
-        <tr>
-<td style="text-align: center">
-                    <img src="https://raw.githubusercontent.com/hiradu/hiradu/master/images/all.gif" width="200"/>
-            </td>      
-            <td style="text-align: center">
-                    <img src="https://raw.githubusercontent.com/hiradu/hiradu/master/images/11.jpeg" width="200"/>
-            </td>            
-            <td style="text-align: center">              
-                     <img src="https://raw.githubusercontent.com/hiradu/hiradu/master/images/55.jpeg" width="200"/>
-            </td>
-</tr>
+| Preview Page | Select Image | Uploaded |
+| ----- | ----- | ----- | ------ | ----- |
+|![][Preview ScreenShot]|![][Select Screenshot] | ![][Uploaded Screenshot] |
 
-  </table>
-  </div>
+
+[Preview ScreenShot]: https://raw.githubusercontent.com/hiradu/hiradu/master/images/all.gif
+[Select Screenshot]: https://raw.githubusercontent.com/hiradu/hiradu/master/images/11.jpeg
+[Uploaded Screenshot]: https://raw.githubusercontent.com/hiradu/hiradu/master/images/55.jpeg
+
 
 
 ## Getting Started
